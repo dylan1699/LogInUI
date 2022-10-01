@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogInUI</string>
+    <string name="forgot_your_password">forgot_your_password</string>
+    <string name="sign_in">sign_in</string>
+    <string name="password">password</string>
+    <string name="mobile">mobile</string>
+    <string name="sign_in_to_your_account">sign_in_to_your_account</string>
+    <string name="welcome_back">welcome_back</string>
+</resources>
